@@ -17,7 +17,7 @@
 ![hobbies2](https://img.shields.io/static/v1?label=&message=automation%2C%20reverse%20engineering&color=555&style=flat-square)
 
 ![stack](https://img.shields.io/static/v1?label=&message=Stack%3A&color=111&style=flat-square)
-![stack2](https://img.shields.io/static/v1?label=&message=java & javascript%20enthusiast&color=555&style=flat-square)
+![stack2](https://img.shields.io/static/v1?label=&message=java/javascript%20enthusiast&color=555&style=flat-square)
 
 ![contact](https://img.shields.io/static/v1?label=&message=Contact%3A&color=111&style=flat-square)
 ![contact2](https://img.shields.io/static/v1?logo=discord&label=&message=Kassadin%230002&color=555&logoColor=AAA&style=flat-square)
