@@ -20,6 +20,6 @@
 ![stack2](https://img.shields.io/static/v1?label=&message=java/javascript%20enthusiast&color=555&style=flat-square)
 
 ![contact](https://img.shields.io/static/v1?label=&message=Contact%3A&color=111&style=flat-square)
-![contact2](https://img.shields.io/static/v1?logo=discord&label=&message=Kassadin%230002&color=555&logoColor=AAA&style=flat-square)
+![contact2](https://img.shields.io/static/v1?logo=discord&label=&message=Kassadin%230001&color=555&logoColor=AAA&style=flat-square)
 ![contact3](https://img.shields.io/static/v1?logo=twitter&label=&message=@gustavostorb&color=555&logoColor=AAA&style=flat-square)
 
